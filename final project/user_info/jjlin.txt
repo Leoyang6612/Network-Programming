@@ -1,0 +1,4 @@
+passwd: ddd
+position: 0 1
+inventory:
+Orange 1

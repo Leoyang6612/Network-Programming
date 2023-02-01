@@ -1,0 +1,4 @@
+passwd: yang
+position: 0 0
+inventory:
+Apple 5Orange 1
